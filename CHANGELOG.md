@@ -33,13 +33,13 @@
 - Integrated Black Coffee from Honest Hearts into some base game drink lists
 - Changed message when looting graves without a shovel from a pop-up to a corner message
 
-  ## Alternate Start Patch
-  - Changed starting Karma of the Regulator/Contract Killer backgrounds, as karma is a bit harder to come by with this mod
+## Alternate Start Patch
+- Changed starting Karma of the Regulator/Contract Killer backgrounds, as karma is a bit harder to come by with this mod
 
-  ## The Living Desert Patch
-  - Fixed some missed conflicts
-  - Renamed some "Dead x" NPCs to just "x" for consitency with changes to vanilla NPCs
-  - Balanced some loot
- 
-  ## Simple Currency Patch
-  - Created, solves conflicts and balances quest rewards to match their changes in the main mod
+## The Living Desert Patch
+- Fixed some missed conflicts
+- Renamed some "Dead x" NPCs to just "x" for consitency with changes to vanilla NPCs
+- Balanced some loot
+
+## Simple Currency Patch
+- Created, solves conflicts and balances quest rewards to match their changes in the main mod
