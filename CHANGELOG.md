@@ -2,6 +2,7 @@
 ## Main File:
 ## Bug Fixes/General Changes
 - Integrated the Ed-E and Radiation hotfix files
+- Fixed losing Karma in illogical places, such as killing hostile creatures
 - Fixed gamesettings for spread using the unused Fallout 3 settings rather than the proper NV ones
 - Removed Lonesome Road Ed-E's need for ammo to prevent any softlocks
 - Added patches for Goodies, Essential DLC Enhancements Merged, and Essential Vanilla Enhancements Merged (all highly recommended)
