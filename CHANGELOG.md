@@ -1,3 +1,31 @@
+# Version 1.2.0 
+## Main File:
+## Bug Fixes/General Changes
+- Integrated the Ed-E and Radiation hotfix files
+- Fixed gamesettings for spread using the unused Fallout 3 settings rather than the proper NV ones
+- Removed Lonesome Road Ed-E's need for ammo to prevent any softlocks
+- Added patches for Goodies, Essential DLC Enhancements Merged, and Essential Vanilla Enhancements Merged (all highly recommended)
+- Removed overlapping features with Goodies
+- Made the plugin an ESM due to YUPDate allowing it to be an ESM without needing a separate patch for YUP's NPC fixes
+- Generated FaceGen with Mostly Fixed FaceGen Tints as a base
+- Packed files into a BSA
+### Economy and Loot
+- Lowered the reward for telling Pretty Sarah about Cook-Cook from 300 to 150
+- Balanced No-Bark Noonan and Ambassador Crockers' caravan cap pools (also no longer use the same caravan container)
+- Balanced the Lonesome Road Commissary's cap totals to be inline with the rest of the Mojave vendors
+### Combat
+- Buffed the three boss fiends from Three Card Bounties to be more like boss fights
+- Placed a Sentry Bot in Hopeville Missle Silo where Ed-E is unlocked to prevent the classic exploit of running through the first half of Hopeville Missle Silo without encountering any enemies and cashing in on thousands of caps worth of loot in the process.
+### World
+- Prevented Mr. Holdout from chasing down the player to initiate dialogue to keep with his illicit nature
+- Slightly increased starvation rate
+- Greatly expanded upon DLC integration, adding some logical DLC consumables like Wasteland Tequila and Black Coffee to various lists
+- Sgt. Astor now gives the player a Radiation Suit along with the other supplies before starting the Searchlight quest
+
+## Caravan Travel:
+- Packed files into a BSA
+
+
 # Version 1.1.0 
 ## Main File:
 ### Economy and Loot
