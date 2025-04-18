@@ -1,6 +1,6 @@
 # Version 1.3.0 
 ## Main File:
-## Bug Fixes/General Changes
+### Bug Fixes/General Changes
 - Forwarded new fixes from YUPDate
 - Fixed Joe Cobb and the Fiend Jailers' karma not being -500
 - Fixed Arcade not consuming ammo
@@ -46,7 +46,7 @@
 
 # Version 1.2.0 
 ## Main File:
-## Bug Fixes/General Changes
+### Bug Fixes/General Changes
 - Integrated the Ed-E and Radiation hotfix files
 - Fixed losing Karma in illogical places, such as killing hostile creatures
 - Fixed gamesettings for spread using the unused Fallout 3 settings rather than the proper NV ones
