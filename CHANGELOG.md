@@ -1,3 +1,47 @@
+# Version 1.3.0 
+## Main File:
+## Bug Fixes/General Changes
+- Forwarded new fixes from YUPDate
+- Fixed Joe Cobb and the Fiend Jailers' karma not being -500
+- Fixed Arcade not consuming ammo
+- Fixed missing sneak requirement on Alertness perk
+- Fixed ammo DR reduction being inconsistent amoung various ammo types
+- Fixed some raw meats giving +2 STR instead of -2
+- Added automatic detection for any NPCs in evil factions to automatically set karma to -500 for parity with this mod's karma changes
+- Optimization pass on all scripts
+### Economy and Loot
+- Nerfed cap output in a few missed loot containers
+- Reworked Garbage item pools to be more logical while still making scavenging viable/useful
+### Weapons/Armor/Equipment
+- Lowered Cattle Prod melee requirement to 50 in the hopes of making it a little less niche
+- Gave Omertas .45 Auto SMGs and Silenced 22 SMGs to fit their "mobster" aesthetic
+- Deleveled unplayable NPC weapons from DLCs so they deal the same amount of damage regardless of level
+- Integrated the Sturdy Caravan Shotgun, Lightweight Leather Armor, and Lightweight Metal Armor as generic weapons/armor for variety (can be found in the same places as their normal variants)
+- Reworked Sturdy Caravan Shotgun as a 12 Gauge Variant of the Caravan Shotgun
+- Increased Leather Armor from 6 -> 8
+- Changed the Liberator to use the Broad Machete mesh, as it previously lacked a unique model and the unique Broad Machete mesh is only found in-game if you pick the Tribal Alternate Start option
+- Gave all laser weapons 1.5x crit mult and all plasma weapons 2.0x mult 
+- Nerfed Q-35 Matter Modulator, as it is an extremely easy to get early weapon that was extremely powerful
+- Reworked the LAER, now has more health, does more damage, but uses 3 ammo per shot
+- Removed ability to mod Elijah's Advanced LAER
+- Minor tweaks to weapon stats across the board to boost viability of some (such as the Flamer and Incinerator)
+### Combat
+- Reduced intensity of gunshot volumes in gameplay (only in terms of NPC reactions, not actual sounds)
+### World
+- Swapped .308 rounds in Primm Sheriff's house to .357 Magnum, which makes more sense given the Cowboy Repeaters in the same house
+
+## Caravan Travel:
+- Added Fields' Shack as a travel location to make trecks to Nellis less tedious 
+- Reworked AI of Caravaneers so they are no longer essential, flee from combat, and will respawn if killed (same behavior as vanilla Traveling Merchants)
+- Optimization pass on all scripts
+
+## Transcended Alternate Start:
+- This file has been retired, as all changes are now made in the main Transcendence mod still without requiring Alternate Start as a master
+
+## Transcended Goodies:
+- Updated for the latest version of Goodies
+
+
 # Version 1.2.0 
 ## Main File:
 ## Bug Fixes/General Changes
