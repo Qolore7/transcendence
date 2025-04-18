@@ -18,7 +18,7 @@
 - Deleveled unplayable NPC weapons from DLCs so they deal the same amount of damage regardless of level
 - Integrated the Sturdy Caravan Shotgun, Lightweight Leather Armor, and Lightweight Metal Armor as generic weapons/armor for variety (can be found in the same places as their normal variants)
 - Reworked Sturdy Caravan Shotgun as a 12 Gauge Variant of the Caravan Shotgun
-- Increased Leather Armor from 6 -> 8
+- Increased Leather Armor DT from 6 -> 8
 - Changed the Liberator to use the Broad Machete mesh, as it previously lacked a unique model and the unique Broad Machete mesh is only found in-game if you pick the Tribal Alternate Start option
 - Gave all laser weapons 1.5x crit mult and all plasma weapons 2.0x mult 
 - Nerfed Q-35 Matter Modulator, as it is an extremely easy to get early weapon that was extremely powerful
@@ -41,6 +41,8 @@
 ## Transcended Goodies:
 - Updated for the latest version of Goodies
 
+## Transcended TLD:
+- Updated for the latest version of The Living Desert
 
 # Version 1.2.0 
 ## Main File:
